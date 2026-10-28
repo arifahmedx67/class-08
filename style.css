@@ -1,0 +1,54 @@
+
+.container{
+    align-items: center
+    width: 715px;
+    margin: 0 auto;
+    ; display: flex;
+    justify-content: space-between
+
+}
+
+#headerPart{
+    padding-top: 25px;
+}
+
+
+.menu ul{
+    display: flex;
+    column-gap: 25px;
+}
+.menu ul li a{
+     font-family: "Inter", sans-serif;
+     font: size 11.14px;
+     font-weight: 400px;
+     color: #4D4D4D;
+    }
+
+.logo{ 
+ width: 30%;
+}
+.menu{
+width: 25%;
+}
+.button{
+width: 20%;
+
+}
+.button a{
+    padding: 15px 25px;
+    background-color: #4CAF4F;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 600px;
+    font-family: "Inter", sans-serif;
+    font-size: 11.14px;
+}
+
+#bannerPart{
+    padding-top: 300px;
+    padding-bottom: 180px;
+     background: url(images/banner.png);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+}
