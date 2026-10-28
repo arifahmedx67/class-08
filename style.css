@@ -47,7 +47,7 @@ width: 20%;
 #bannerPart{
     padding-top: 300px;
     padding-bottom: 180px;
-     background: url(images/banner.png);
+    background: url(images/banner.png);
      background-repeat: no-repeat;
      background-position: center;
      background-size: cover;
